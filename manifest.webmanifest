@@ -1,0 +1,9 @@
+{
+  "name": "광야 어드벤처",
+  "short_name": "광야어드벤처",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1d1009",
+  "theme_color": "#3e2414",
+  "description": "교회 레크리에이션 실시간 미션 지도"
+}
