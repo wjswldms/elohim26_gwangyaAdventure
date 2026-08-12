@@ -1,4 +1,4 @@
-const CACHE='gwangya-adventure-v12';
+const CACHE='gwangya-adventure-v12-2-15teams';
 const ASSETS=['./','./index.html','./manifest.webmanifest','./firebase-config.js','./map.jpg'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS))));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k))))));
