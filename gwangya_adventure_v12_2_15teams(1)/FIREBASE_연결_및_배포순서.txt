@@ -1,0 +1,41 @@
+[광야 어드벤처 v5 무료 배포 순서]
+
+1. GitHub에서 Public 저장소 gwangya-adventure 생성
+2. 이 폴더 안의 파일을 모두 저장소 최상단에 업로드
+   - index.html
+   - firebase-config.js
+   - manifest.webmanifest
+   - sw.js
+3. Settings > Pages > Deploy from a branch > main / root > Save
+4. Firebase에서 프로젝트 생성
+5. Build > Realtime Database > Create database > Test mode
+6. 프로젝트 설정 > 웹 앱(</>) 등록
+7. 표시되는 firebaseConfig 값을 firebase-config.js에 복사
+8. 수정한 firebase-config.js를 GitHub에 다시 업로드(덮어쓰기)
+9. Firebase Realtime Database > Rules를 행사 중에는 아래처럼 설정
+
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
+}
+
+주의: 위 규칙은 누구나 읽고 쓸 수 있는 행사 시연용입니다. 행사 종료 후 반드시 쓰기 권한을 false로 바꾸세요.
+
+10. GitHub Pages 주소 예시
+https://아이디.github.io/gwangya-adventure/
+
+11. 조별 QR/NFC 주소 예시
+https://아이디.github.io/gwangya-adventure/?team=1
+https://아이디.github.io/gwangya-adventure/?team=2
+
+[적용 기능]
+- Firebase 실시간 참여 조 현황/만나 순위
+- 지도 상단 실시간 TOP 3
+- 혼잡도 및 현재 조/필요 조 표시
+- 퀘스트 클릭 확대/발광
+- 만나 지급 애니메이션
+- 모바일 반응형
+- PWA 홈 화면 설치
+- Firebase 미설정 시 로컬 시연 모드 자동 동작

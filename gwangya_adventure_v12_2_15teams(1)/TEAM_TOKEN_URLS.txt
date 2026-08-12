@@ -1,0 +1,18 @@
+광야 어드벤처 조별 전용 URL (관리자 보관용)
+※ YOUR_GITHUB_ID를 실제 GitHub 아이디로 바꿔 사용하세요.
+
+1조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=iPwTBfW6nwxs8CmFR56eRpAA
+2조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=GNaWyWzguicu1CtB6rIAah8F
+3조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=GhVWjoiIyCA8NynQDmR2qVOX
+4조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=tIRSuTa5KmPO7QnmBJytVkTK
+5조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=BtTvfGATBVcjLrEj6AQZ8HU9
+6조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=RAYU2LQMjsgrsK4cTK0GNuIZ
+7조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=W2wt2rNTbyFfGrHBkfhmeOji
+8조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=3ljZDWmRhOdgBS24ZFwNxGn9
+9조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=Yv9ejxWJ7WiegwS7MTuNAAYY
+10조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=PSzpLENxPFyX4spBISyPIe3Y
+11조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=9Bq9udUwb1s9Mcvb3Gn4PlqA
+12조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=MQjUIDcY5WT3uQJ3rlwdKI3c
+13조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=vXld5HVei0lw1G7UoOLDg71a
+14조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=bUk9wwwcAud3O9HmPZ7ibqWa
+15조: https://YOUR_GITHUB_ID.github.io/gwangya-adventure/?token=gmrIL8a7E6S3QmlohnMx-0Tp
